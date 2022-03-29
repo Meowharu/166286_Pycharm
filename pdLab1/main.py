@@ -82,7 +82,7 @@
 
 # zad 7
 
-# imie = 'Oskar'
+# imie = 'Bobek'
 # print(imie[0])
 # print(imie[1])
 # print(imie[4])
